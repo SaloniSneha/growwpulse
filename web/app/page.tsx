@@ -591,7 +591,7 @@ function ConfigPanel({
         <div className="flex flex-col gap-3 justify-center">
           <label className="flex items-center gap-3 cursor-pointer">
             <div
-              onClick={() => setSendEmail(v => !v)}
+              onClick={() => setSendEmail((v: boolean) => !v)}
               className={`w-9 h-5 rounded-full transition-colors relative ${sendEmail ? 'bg-groww-600' : 'bg-white/10'}`}
             >
               <span className={`absolute top-0.5 w-4 h-4 rounded-full bg-white transition-transform shadow-sm ${sendEmail ? 'translate-x-4' : 'translate-x-0.5'}`} />
