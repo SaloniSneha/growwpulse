@@ -167,7 +167,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <ApiStatusBadge connected={apiConnected} />
             <button
-              onClick={() => setShowConfig(v => !v)}
+              onClick={() => setShowConfig((v: boolean) => !v)}
               className="flex items-center gap-1.5 text-xs text-gray-400 hover:text-white transition-colors px-3 py-1.5 rounded-lg hover:bg-white/5"
             >
               <Settings size={13} />
@@ -600,7 +600,7 @@ function ConfigPanel({
           </label>
           <label className="flex items-center gap-3 cursor-pointer">
             <div
-              onClick={() => setUseMock(v => !v)}
+              onClick={() => setUseMock((v: boolean) => !v)}
               className={`w-9 h-5 rounded-full transition-colors relative ${useMock ? 'bg-groww-600' : 'bg-white/10'}`}
             >
               <span className={`absolute top-0.5 w-4 h-4 rounded-full bg-white transition-transform shadow-sm ${useMock ? 'translate-x-4' : 'translate-x-0.5'}`} />
@@ -625,7 +625,7 @@ function ArchitectureDiagram() {
   return (
     <div className="mt-8">
       <button
-        onClick={() => setOpen(v => !v)}
+        onClick={() => setOpen((v: boolean) => !v)}
         className="flex items-center gap-2 text-sm text-gray-400 hover:text-white transition-colors"
       >
         {open ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
