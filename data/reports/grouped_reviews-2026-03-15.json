@@ -1,0 +1,1842 @@
+{
+  "generatedAt": "2026-03-15T13:31:15.017028+00:00",
+  "themes": [
+    {
+      "id": "app_performance",
+      "label": "App Performance & Crashes",
+      "description": "Issues with app speed, crashes, freezes, and overall stability."
+    },
+    {
+      "id": "customer_support",
+      "label": "Customer Support",
+      "description": "Experiences with support quality, response time, and issue resolution."
+    },
+    {
+      "id": "investment_features",
+      "label": "Investment Features",
+      "description": "Features related to SIPs, mutual funds, stocks, and portfolio management."
+    },
+    {
+      "id": "ui_ux",
+      "label": "UI/UX & Navigation",
+      "description": "Feedback on interface design, usability, navigation, and onboarding."
+    },
+    {
+      "id": "security_trust",
+      "label": "Security & Trust",
+      "description": "Concerns and praise around login security, OTP, and data safety."
+    }
+  ],
+  "byTheme": {
+    "app_performance": [
+      {
+        "reviewId": "review_0018",
+        "rating": 4,
+        "text": "Transaction history is well laid out. Easy to download statements. Good for tax filing.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewId": "review_0223",
+        "rating": 4,
+        "text": "Gold investment feature is seamless. The smallest denomination option is great for new investors.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewId": "review_0113",
+        "rating": 3,
+        "text": "The dark mode looks good but some text is barely readable against the dark background.",
+        "date": "2026-03-11"
+      },
+      {
+        "reviewId": "review_0004",
+        "rating": 1,
+        "text": "Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewId": "review_0197",
+        "rating": 1,
+        "text": "Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0117",
+        "rating": 2,
+        "text": "The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.",
+        "date": "2026-03-02"
+      },
+      {
+        "reviewId": "review_0104",
+        "rating": 1,
+        "text": "Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewId": "review_0093",
+        "rating": 5,
+        "text": "Biometric login is smooth and fast. Much better than entering the full PIN every time.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0216",
+        "rating": 5,
+        "text": "Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewId": "review_0225",
+        "rating": 5,
+        "text": "Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.",
+        "date": "2026-02-13"
+      },
+      {
+        "reviewId": "review_0144",
+        "rating": 2,
+        "text": "Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.",
+        "date": "2026-01-12"
+      },
+      {
+        "reviewId": "review_0129",
+        "rating": 4,
+        "text": "The mutual fund ratings and analysis reports are helpful for making informed decisions.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0130",
+        "rating": 2,
+        "text": "Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewId": "review_0107",
+        "rating": 3,
+        "text": "Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",
+        "date": "2026-02-17"
+      },
+      {
+        "reviewId": "review_0173",
+        "rating": 4,
+        "text": "Gold investment feature is seamless. The smallest denomination option is great for new investors.",
+        "date": "2026-01-16"
+      },
+      {
+        "reviewId": "review_0154",
+        "rating": 1,
+        "text": "Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.",
+        "date": "2026-02-11"
+      },
+      {
+        "reviewId": "review_0121",
+        "rating": 4,
+        "text": "The fund comparison feature is excellent. Helps me pick the right fund for my goals.",
+        "date": "2026-01-10"
+      },
+      {
+        "reviewId": "review_0012",
+        "rating": 2,
+        "text": "It is hard to find the SIP details page. Too many taps to reach basic information I need daily.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0289",
+        "rating": 4,
+        "text": "Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewId": "review_0285",
+        "rating": 1,
+        "text": "My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewId": "review_0070",
+        "rating": 5,
+        "text": "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0191",
+        "rating": 2,
+        "text": "Verification process for bank account change took 5 business days. Too slow for a fintech company.",
+        "date": "2026-03-12"
+      },
+      {
+        "reviewId": "review_0001",
+        "rating": 1,
+        "text": "The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewId": "review_0252",
+        "rating": 2,
+        "text": "Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewId": "review_0126",
+        "rating": 4,
+        "text": "The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",
+        "date": "2026-01-05"
+      },
+      {
+        "reviewId": "review_0038",
+        "rating": 2,
+        "text": "Help section FAQs are outdated. Does not match the current app interface at all.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0055",
+        "rating": 2,
+        "text": "Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.",
+        "date": "2026-02-09"
+      },
+      {
+        "reviewId": "review_0184",
+        "rating": 2,
+        "text": "Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewId": "review_0274",
+        "rating": 3,
+        "text": "Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0027",
+        "rating": 3,
+        "text": "No option to set a target price alert without placing an order. This basic feature is missing.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0281",
+        "rating": 5,
+        "text": "Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewId": "review_0160",
+        "rating": 3,
+        "text": "The new UI is confusing. I cannot find where to check my investment returns like before.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewId": "review_0268",
+        "rating": 4,
+        "text": "Transaction history is well laid out. Easy to download statements. Good for tax filing.",
+        "date": "2026-01-23"
+      },
+      {
+        "reviewId": "review_0048",
+        "rating": 5,
+        "text": "Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.",
+        "date": "2026-03-11"
+      },
+      {
+        "reviewId": "review_0241",
+        "rating": 2,
+        "text": "Verification process for bank account change took 5 business days. Too slow for a fintech company.",
+        "date": "2026-01-27"
+      },
+      {
+        "reviewId": "review_0042",
+        "rating": 4,
+        "text": "Two factor authentication works well. Feel safe about my investments and personal data.",
+        "date": "2026-01-31"
+      },
+      {
+        "reviewId": "review_0089",
+        "rating": 4,
+        "text": "Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.",
+        "date": "2026-01-27"
+      },
+      {
+        "reviewId": "review_0072",
+        "rating": 5,
+        "text": "Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewId": "review_0156",
+        "rating": 1,
+        "text": "App crashes when I try to place a limit order. Lost a good entry point because of this bug.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0215",
+        "rating": 3,
+        "text": "Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0040",
+        "rating": 1,
+        "text": "Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewId": "review_0186",
+        "rating": 3,
+        "text": "Response time from support has improved but resolution quality is still lacking. Need better agents.",
+        "date": "2026-02-18"
+      },
+      {
+        "reviewId": "review_0199",
+        "rating": 3,
+        "text": "No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.",
+        "date": "2026-02-07"
+      },
+      {
+        "reviewId": "review_0233",
+        "rating": 1,
+        "text": "KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewId": "review_0168",
+        "rating": 4,
+        "text": "Transaction history is well laid out. Easy to download statements. Good for tax filing.",
+        "date": "2026-01-05"
+      },
+      {
+        "reviewId": "review_0214",
+        "rating": 4,
+        "text": "Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.",
+        "date": "2026-03-10"
+      },
+      {
+        "reviewId": "review_0288",
+        "rating": 2,
+        "text": "Help section FAQs are outdated. Does not match the current app interface at all.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewId": "review_0170",
+        "rating": 5,
+        "text": "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.",
+        "date": "2026-03-08"
+      },
+      {
+        "reviewId": "review_0189",
+        "rating": 4,
+        "text": "Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.",
+        "date": "2026-02-26"
+      },
+      {
+        "reviewId": "review_0008",
+        "rating": 2,
+        "text": "Push notifications for SIP execution do not arrive on time. I only know after checking manually.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewId": "review_0297",
+        "rating": 1,
+        "text": "Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.",
+        "date": "2026-03-15"
+      },
+      {
+        "reviewId": "review_0005",
+        "rating": 2,
+        "text": "Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewId": "review_0275",
+        "rating": 5,
+        "text": "Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.",
+        "date": "2026-02-16"
+      },
+      {
+        "reviewId": "review_0155",
+        "rating": 2,
+        "text": "Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0054",
+        "rating": 1,
+        "text": "Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0248",
+        "rating": 5,
+        "text": "Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewId": "review_0141",
+        "rating": 2,
+        "text": "Verification process for bank account change took 5 business days. Too slow for a fintech company.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0253",
+        "rating": 3,
+        "text": "App was great earlier but after the last update it has become slow. Hope they fix this soon.",
+        "date": "2026-01-11"
+      },
+      {
+        "reviewId": "review_0249",
+        "rating": 3,
+        "text": "No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewId": "review_0286",
+        "rating": 3,
+        "text": "Response time from support has improved but resolution quality is still lacking. Need better agents.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewId": "review_0272",
+        "rating": 5,
+        "text": "Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0270",
+        "rating": 5,
+        "text": "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.",
+        "date": "2026-02-18"
+      },
+      {
+        "reviewId": "review_0062",
+        "rating": 2,
+        "text": "It is hard to find the SIP details page. Too many taps to reach basic information I need daily.",
+        "date": "2026-02-17"
+      },
+      {
+        "reviewId": "review_0114",
+        "rating": 4,
+        "text": "Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.",
+        "date": "2026-03-11"
+      },
+      {
+        "reviewId": "review_0010",
+        "rating": 3,
+        "text": "The new UI is confusing. I cannot find where to check my investment returns like before.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0128",
+        "rating": 5,
+        "text": "SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewId": "review_0015",
+        "rating": 3,
+        "text": "Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.",
+        "date": "2026-02-17"
+      },
+      {
+        "reviewId": "review_0236",
+        "rating": 3,
+        "text": "Response time from support has improved but resolution quality is still lacking. Need better agents.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0059",
+        "rating": 1,
+        "text": "Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0258",
+        "rating": 2,
+        "text": "Push notifications for SIP execution do not arrive on time. I only know after checking manually.",
+        "date": "2026-01-14"
+      },
+      {
+        "reviewId": "review_0180",
+        "rating": 2,
+        "text": "Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.",
+        "date": "2026-02-09"
+      },
+      {
+        "reviewId": "review_0111",
+        "rating": 4,
+        "text": "Love the overall design but the font size in the portfolio section is too small for my eyes.",
+        "date": "2026-01-12"
+      },
+      {
+        "reviewId": "review_0052",
+        "rating": 2,
+        "text": "Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0079",
+        "rating": 4,
+        "text": "The mutual fund ratings and analysis reports are helpful for making informed decisions.",
+        "date": "2026-02-19"
+      },
+      {
+        "reviewId": "review_0064",
+        "rating": 4,
+        "text": "Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0086",
+        "rating": 3,
+        "text": "Response time from support has improved but resolution quality is still lacking. Need better agents.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewId": "review_0259",
+        "rating": 1,
+        "text": "Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0091",
+        "rating": 2,
+        "text": "Verification process for bank account change took 5 business days. Too slow for a fintech company.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0219",
+        "rating": 3,
+        "text": "Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0134",
+        "rating": 2,
+        "text": "Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewId": "review_0291",
+        "rating": 2,
+        "text": "Verification process for bank account change took 5 business days. Too slow for a fintech company.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewId": "review_0098",
+        "rating": 5,
+        "text": "Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0238",
+        "rating": 2,
+        "text": "Help section FAQs are outdated. Does not match the current app interface at all.",
+        "date": "2026-02-17"
+      },
+      {
+        "reviewId": "review_0165",
+        "rating": 3,
+        "text": "Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.",
+        "date": "2026-01-14"
+      }
+    ],
+    "customer_support": [
+      {
+        "reviewId": "review_0053",
+        "rating": 3,
+        "text": "App was great earlier but after the last update it has become slow. Hope they fix this soon.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewId": "review_0267",
+        "rating": 2,
+        "text": "The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.",
+        "date": "2026-03-12"
+      },
+      {
+        "reviewId": "review_0178",
+        "rating": 5,
+        "text": "SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewId": "review_0239",
+        "rating": 4,
+        "text": "Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewId": "review_0022",
+        "rating": 5,
+        "text": "Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0177",
+        "rating": 3,
+        "text": "No option to set a target price alert without placing an order. This basic feature is missing.",
+        "date": "2026-01-22"
+      },
+      {
+        "reviewId": "review_0244",
+        "rating": 2,
+        "text": "Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.",
+        "date": "2026-01-31"
+      },
+      {
+        "reviewId": "review_0224",
+        "rating": 3,
+        "text": "Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewId": "review_0110",
+        "rating": 3,
+        "text": "The new UI is confusing. I cannot find where to check my investment returns like before.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0057",
+        "rating": 3,
+        "text": "Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewId": "review_0148",
+        "rating": 5,
+        "text": "Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewId": "review_0242",
+        "rating": 4,
+        "text": "Two factor authentication works well. Feel safe about my investments and personal data.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewId": "review_0142",
+        "rating": 4,
+        "text": "Two factor authentication works well. Feel safe about my investments and personal data.",
+        "date": "2026-02-09"
+      },
+      {
+        "reviewId": "review_0116",
+        "rating": 5,
+        "text": "Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewId": "review_0067",
+        "rating": 2,
+        "text": "The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewId": "review_0277",
+        "rating": 3,
+        "text": "No option to set a target price alert without placing an order. This basic feature is missing.",
+        "date": "2026-02-13"
+      },
+      {
+        "reviewId": "review_0208",
+        "rating": 2,
+        "text": "Push notifications for SIP execution do not arrive on time. I only know after checking manually.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0250",
+        "rating": 2,
+        "text": "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.",
+        "date": "2026-02-10"
+      },
+      {
+        "reviewId": "review_0174",
+        "rating": 3,
+        "text": "Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",
+        "date": "2026-01-23"
+      },
+      {
+        "reviewId": "review_0232",
+        "rating": 1,
+        "text": "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.",
+        "date": "2026-01-11"
+      },
+      {
+        "reviewId": "review_0122",
+        "rating": 5,
+        "text": "Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewId": "review_0278",
+        "rating": 5,
+        "text": "SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewId": "review_0263",
+        "rating": 3,
+        "text": "The dark mode looks good but some text is barely readable against the dark background.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewId": "review_0137",
+        "rating": 1,
+        "text": "They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0203",
+        "rating": 3,
+        "text": "App was great earlier but after the last update it has become slow. Hope they fix this soon.",
+        "date": "2026-03-12"
+      },
+      {
+        "reviewId": "review_0090",
+        "rating": 1,
+        "text": "Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewId": "review_0206",
+        "rating": 1,
+        "text": "App crashes when I try to place a limit order. Lost a good entry point because of this bug.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewId": "review_0043",
+        "rating": 5,
+        "text": "Biometric login is smooth and fast. Much better than entering the full PIN every time.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0077",
+        "rating": 3,
+        "text": "No option to set a target price alert without placing an order. This basic feature is missing.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0188",
+        "rating": 2,
+        "text": "Help section FAQs are outdated. Does not match the current app interface at all.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0046",
+        "rating": 4,
+        "text": "Liked how they handled the recent data issue. Transparency and quick communication was appreciated.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0112",
+        "rating": 2,
+        "text": "It is hard to find the SIP details page. Too many taps to reach basic information I need daily.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewId": "review_0020",
+        "rating": 5,
+        "text": "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0231",
+        "rating": 5,
+        "text": "Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0032",
+        "rating": 1,
+        "text": "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.",
+        "date": "2026-01-24"
+      },
+      {
+        "reviewId": "review_0044",
+        "rating": 2,
+        "text": "Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0124",
+        "rating": 3,
+        "text": "Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",
+        "date": "2026-02-12"
+      },
+      {
+        "reviewId": "review_0255",
+        "rating": 2,
+        "text": "Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewId": "review_0084",
+        "rating": 2,
+        "text": "Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewId": "review_0103",
+        "rating": 3,
+        "text": "App was great earlier but after the last update it has become slow. Hope they fix this soon.",
+        "date": "2026-02-09"
+      },
+      {
+        "reviewId": "review_0294",
+        "rating": 2,
+        "text": "Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewId": "review_0119",
+        "rating": 3,
+        "text": "Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.",
+        "date": "2026-02-17"
+      },
+      {
+        "reviewId": "review_0150",
+        "rating": 2,
+        "text": "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewId": "review_0254",
+        "rating": 1,
+        "text": "Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.",
+        "date": "2026-01-23"
+      },
+      {
+        "reviewId": "review_0213",
+        "rating": 3,
+        "text": "The dark mode looks good but some text is barely readable against the dark background.",
+        "date": "2026-02-27"
+      },
+      {
+        "reviewId": "review_0192",
+        "rating": 4,
+        "text": "Two factor authentication works well. Feel safe about my investments and personal data.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewId": "review_0035",
+        "rating": 1,
+        "text": "My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",
+        "date": "2026-02-22"
+      },
+      {
+        "reviewId": "review_0013",
+        "rating": 3,
+        "text": "The dark mode looks good but some text is barely readable against the dark background.",
+        "date": "2026-03-14"
+      },
+      {
+        "reviewId": "review_0025",
+        "rating": 5,
+        "text": "Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewId": "review_0261",
+        "rating": 4,
+        "text": "Love the overall design but the font size in the portfolio section is too small for my eyes.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewId": "review_0176",
+        "rating": 4,
+        "text": "The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",
+        "date": "2026-01-19"
+      },
+      {
+        "reviewId": "review_0127",
+        "rating": 3,
+        "text": "No option to set a target price alert without placing an order. This basic feature is missing.",
+        "date": "2026-01-05"
+      },
+      {
+        "reviewId": "review_0247",
+        "rating": 1,
+        "text": "Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0050",
+        "rating": 2,
+        "text": "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.",
+        "date": "2026-01-13"
+      },
+      {
+        "reviewId": "review_0063",
+        "rating": 3,
+        "text": "The dark mode looks good but some text is barely readable against the dark background.",
+        "date": "2026-01-19"
+      },
+      {
+        "reviewId": "review_0030",
+        "rating": 2,
+        "text": "Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.",
+        "date": "2026-02-28"
+      },
+      {
+        "reviewId": "review_0161",
+        "rating": 4,
+        "text": "Love the overall design but the font size in the portfolio section is too small for my eyes.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0172",
+        "rating": 5,
+        "text": "Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0158",
+        "rating": 2,
+        "text": "Push notifications for SIP execution do not arrive on time. I only know after checking manually.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewId": "review_0260",
+        "rating": 3,
+        "text": "The new UI is confusing. I cannot find where to check my investment returns like before.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewId": "review_0183",
+        "rating": 1,
+        "text": "KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0185",
+        "rating": 1,
+        "text": "My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0041",
+        "rating": 2,
+        "text": "Verification process for bank account change took 5 business days. Too slow for a fintech company.",
+        "date": "2026-01-11"
+      },
+      {
+        "reviewId": "review_0143",
+        "rating": 5,
+        "text": "Biometric login is smooth and fast. Much better than entering the full PIN every time.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0101",
+        "rating": 1,
+        "text": "The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.",
+        "date": "2026-03-10"
+      },
+      {
+        "reviewId": "review_0068",
+        "rating": 4,
+        "text": "Transaction history is well laid out. Easy to download statements. Good for tax filing.",
+        "date": "2026-01-27"
+      },
+      {
+        "reviewId": "review_0202",
+        "rating": 2,
+        "text": "Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0201",
+        "rating": 1,
+        "text": "The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0229",
+        "rating": 4,
+        "text": "The mutual fund ratings and analysis reports are helpful for making informed decisions.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0194",
+        "rating": 2,
+        "text": "Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.",
+        "date": "2026-01-31"
+      },
+      {
+        "reviewId": "review_0120",
+        "rating": 5,
+        "text": "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewId": "review_0146",
+        "rating": 4,
+        "text": "Liked how they handled the recent data issue. Transparency and quick communication was appreciated.",
+        "date": "2026-03-07"
+      }
+    ],
+    "investment_features": [
+      {
+        "reviewId": "review_0299",
+        "rating": 3,
+        "text": "No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewId": "review_0003",
+        "rating": 3,
+        "text": "App was great earlier but after the last update it has become slow. Hope they fix this soon.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewId": "review_0179",
+        "rating": 4,
+        "text": "The mutual fund ratings and analysis reports are helpful for making informed decisions.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0034",
+        "rating": 2,
+        "text": "Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0102",
+        "rating": 2,
+        "text": "Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0136",
+        "rating": 3,
+        "text": "Response time from support has improved but resolution quality is still lacking. Need better agents.",
+        "date": "2026-02-13"
+      },
+      {
+        "reviewId": "review_0011",
+        "rating": 4,
+        "text": "Love the overall design but the font size in the portfolio section is too small for my eyes.",
+        "date": "2026-02-12"
+      },
+      {
+        "reviewId": "review_0028",
+        "rating": 5,
+        "text": "SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.",
+        "date": "2026-01-05"
+      },
+      {
+        "reviewId": "review_0163",
+        "rating": 3,
+        "text": "The dark mode looks good but some text is barely readable against the dark background.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewId": "review_0078",
+        "rating": 5,
+        "text": "SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewId": "review_0222",
+        "rating": 5,
+        "text": "Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0147",
+        "rating": 1,
+        "text": "Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0283",
+        "rating": 1,
+        "text": "KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewId": "review_0167",
+        "rating": 2,
+        "text": "The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewId": "review_0058",
+        "rating": 2,
+        "text": "Push notifications for SIP execution do not arrive on time. I only know after checking manually.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewId": "review_0284",
+        "rating": 2,
+        "text": "Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewId": "review_0182",
+        "rating": 1,
+        "text": "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0171",
+        "rating": 4,
+        "text": "The fund comparison feature is excellent. Helps me pick the right fund for my goals.",
+        "date": "2026-03-14"
+      },
+      {
+        "reviewId": "review_0246",
+        "rating": 4,
+        "text": "Liked how they handled the recent data issue. Transparency and quick communication was appreciated.",
+        "date": "2026-03-07"
+      },
+      {
+        "reviewId": "review_0243",
+        "rating": 5,
+        "text": "Biometric login is smooth and fast. Much better than entering the full PIN every time.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0159",
+        "rating": 1,
+        "text": "Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0262",
+        "rating": 2,
+        "text": "It is hard to find the SIP details page. Too many taps to reach basic information I need daily.",
+        "date": "2026-02-11"
+      },
+      {
+        "reviewId": "review_0123",
+        "rating": 4,
+        "text": "Gold investment feature is seamless. The smallest denomination option is great for new investors.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0125",
+        "rating": 5,
+        "text": "Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.",
+        "date": "2026-01-16"
+      },
+      {
+        "reviewId": "review_0240",
+        "rating": 1,
+        "text": "Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.",
+        "date": "2026-02-09"
+      },
+      {
+        "reviewId": "review_0153",
+        "rating": 3,
+        "text": "App was great earlier but after the last update it has become slow. Hope they fix this soon.",
+        "date": "2026-03-08"
+      },
+      {
+        "reviewId": "review_0088",
+        "rating": 2,
+        "text": "Help section FAQs are outdated. Does not match the current app interface at all.",
+        "date": "2026-03-07"
+      },
+      {
+        "reviewId": "review_0257",
+        "rating": 3,
+        "text": "Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",
+        "date": "2026-02-22"
+      },
+      {
+        "reviewId": "review_0271",
+        "rating": 4,
+        "text": "The fund comparison feature is excellent. Helps me pick the right fund for my goals.",
+        "date": "2026-02-19"
+      },
+      {
+        "reviewId": "review_0017",
+        "rating": 2,
+        "text": "The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.",
+        "date": "2026-02-13"
+      },
+      {
+        "reviewId": "review_0149",
+        "rating": 3,
+        "text": "No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0228",
+        "rating": 5,
+        "text": "SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.",
+        "date": "2026-01-16"
+      },
+      {
+        "reviewId": "review_0118",
+        "rating": 4,
+        "text": "Transaction history is well laid out. Easy to download statements. Good for tax filing.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewId": "review_0006",
+        "rating": 1,
+        "text": "App crashes when I try to place a limit order. Lost a good entry point because of this bug.",
+        "date": "2026-01-26"
+      },
+      {
+        "reviewId": "review_0251",
+        "rating": 1,
+        "text": "The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0212",
+        "rating": 2,
+        "text": "It is hard to find the SIP details page. Too many taps to reach basic information I need daily.",
+        "date": "2026-02-11"
+      },
+      {
+        "reviewId": "review_0200",
+        "rating": 2,
+        "text": "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.",
+        "date": "2026-02-18"
+      },
+      {
+        "reviewId": "review_0195",
+        "rating": 3,
+        "text": "App does not support hardware security keys. For an investment app the security should be top tier.",
+        "date": "2026-01-27"
+      },
+      {
+        "reviewId": "review_0036",
+        "rating": 3,
+        "text": "Response time from support has improved but resolution quality is still lacking. Need better agents.",
+        "date": "2026-01-13"
+      },
+      {
+        "reviewId": "review_0292",
+        "rating": 4,
+        "text": "Two factor authentication works well. Feel safe about my investments and personal data.",
+        "date": "2026-02-26"
+      },
+      {
+        "reviewId": "review_0069",
+        "rating": 3,
+        "text": "Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewId": "review_0094",
+        "rating": 2,
+        "text": "Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewId": "review_0226",
+        "rating": 4,
+        "text": "The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0162",
+        "rating": 2,
+        "text": "It is hard to find the SIP details page. Too many taps to reach basic information I need daily.",
+        "date": "2026-01-22"
+      },
+      {
+        "reviewId": "review_0218",
+        "rating": 4,
+        "text": "Transaction history is well laid out. Easy to download statements. Good for tax filing.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0000",
+        "rating": 2,
+        "text": "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.",
+        "date": "2026-01-29"
+      },
+      {
+        "reviewId": "review_0207",
+        "rating": 3,
+        "text": "Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",
+        "date": "2026-01-12"
+      },
+      {
+        "reviewId": "review_0073",
+        "rating": 4,
+        "text": "Gold investment feature is seamless. The smallest denomination option is great for new investors.",
+        "date": "2026-01-26"
+      },
+      {
+        "reviewId": "review_0031",
+        "rating": 5,
+        "text": "Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0014",
+        "rating": 4,
+        "text": "Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.",
+        "date": "2026-03-07"
+      },
+      {
+        "reviewId": "review_0023",
+        "rating": 4,
+        "text": "Gold investment feature is seamless. The smallest denomination option is great for new investors.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0108",
+        "rating": 2,
+        "text": "Push notifications for SIP execution do not arrive on time. I only know after checking manually.",
+        "date": "2026-02-12"
+      },
+      {
+        "reviewId": "review_0287",
+        "rating": 1,
+        "text": "They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.",
+        "date": "2026-01-24"
+      },
+      {
+        "reviewId": "review_0132",
+        "rating": 1,
+        "text": "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.",
+        "date": "2026-01-22"
+      },
+      {
+        "reviewId": "review_0266",
+        "rating": 5,
+        "text": "Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewId": "review_0205",
+        "rating": 2,
+        "text": "Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.",
+        "date": "2026-01-23"
+      },
+      {
+        "reviewId": "review_0047",
+        "rating": 1,
+        "text": "Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0234",
+        "rating": 2,
+        "text": "Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.",
+        "date": "2026-01-14"
+      },
+      {
+        "reviewId": "review_0002",
+        "rating": 2,
+        "text": "Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.",
+        "date": "2026-02-16"
+      },
+      {
+        "reviewId": "review_0074",
+        "rating": 3,
+        "text": "Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",
+        "date": "2026-02-14"
+      },
+      {
+        "reviewId": "review_0256",
+        "rating": 1,
+        "text": "App crashes when I try to place a limit order. Lost a good entry point because of this bug.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0099",
+        "rating": 3,
+        "text": "No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.",
+        "date": "2026-01-19"
+      },
+      {
+        "reviewId": "review_0096",
+        "rating": 4,
+        "text": "Liked how they handled the recent data issue. Transparency and quick communication was appreciated.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewId": "review_0151",
+        "rating": 1,
+        "text": "The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewId": "review_0264",
+        "rating": 4,
+        "text": "Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.",
+        "date": "2026-03-04"
+      },
+      {
+        "reviewId": "review_0193",
+        "rating": 5,
+        "text": "Biometric login is smooth and fast. Much better than entering the full PIN every time.",
+        "date": "2026-03-12"
+      }
+    ],
+    "ui_ux": [
+      {
+        "reviewId": "review_0237",
+        "rating": 1,
+        "text": "They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.",
+        "date": "2026-02-07"
+      },
+      {
+        "reviewId": "review_0060",
+        "rating": 3,
+        "text": "The new UI is confusing. I cannot find where to check my investment returns like before.",
+        "date": "2026-03-10"
+      },
+      {
+        "reviewId": "review_0210",
+        "rating": 3,
+        "text": "The new UI is confusing. I cannot find where to check my investment returns like before.",
+        "date": "2026-03-08"
+      },
+      {
+        "reviewId": "review_0080",
+        "rating": 2,
+        "text": "Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewId": "review_0076",
+        "rating": 4,
+        "text": "The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0276",
+        "rating": 4,
+        "text": "The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewId": "review_0092",
+        "rating": 4,
+        "text": "Two factor authentication works well. Feel safe about my investments and personal data.",
+        "date": "2026-01-26"
+      },
+      {
+        "reviewId": "review_0051",
+        "rating": 1,
+        "text": "The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewId": "review_0115",
+        "rating": 3,
+        "text": "Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.",
+        "date": "2026-02-26"
+      },
+      {
+        "reviewId": "review_0298",
+        "rating": 5,
+        "text": "Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0016",
+        "rating": 5,
+        "text": "Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0204",
+        "rating": 1,
+        "text": "Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0100",
+        "rating": 2,
+        "text": "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.",
+        "date": "2026-03-05"
+      },
+      {
+        "reviewId": "review_0056",
+        "rating": 1,
+        "text": "App crashes when I try to place a limit order. Lost a good entry point because of this bug.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewId": "review_0097",
+        "rating": 1,
+        "text": "Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.",
+        "date": "2026-02-07"
+      },
+      {
+        "reviewId": "review_0083",
+        "rating": 1,
+        "text": "KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewId": "review_0039",
+        "rating": 4,
+        "text": "Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.",
+        "date": "2026-01-19"
+      },
+      {
+        "reviewId": "review_0157",
+        "rating": 3,
+        "text": "Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0026",
+        "rating": 4,
+        "text": "The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",
+        "date": "2026-02-13"
+      },
+      {
+        "reviewId": "review_0235",
+        "rating": 1,
+        "text": "My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0230",
+        "rating": 2,
+        "text": "Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewId": "review_0265",
+        "rating": 3,
+        "text": "Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewId": "review_0085",
+        "rating": 1,
+        "text": "My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewId": "review_0190",
+        "rating": 1,
+        "text": "Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.",
+        "date": "2026-01-20"
+      },
+      {
+        "reviewId": "review_0106",
+        "rating": 1,
+        "text": "App crashes when I try to place a limit order. Lost a good entry point because of this bug.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewId": "review_0021",
+        "rating": 4,
+        "text": "The fund comparison feature is excellent. Helps me pick the right fund for my goals.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0095",
+        "rating": 3,
+        "text": "App does not support hardware security keys. For an investment app the security should be top tier.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0220",
+        "rating": 5,
+        "text": "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewId": "review_0138",
+        "rating": 2,
+        "text": "Help section FAQs are outdated. Does not match the current app interface at all.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewId": "review_0217",
+        "rating": 2,
+        "text": "The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0209",
+        "rating": 1,
+        "text": "Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewId": "review_0181",
+        "rating": 5,
+        "text": "Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.",
+        "date": "2026-01-23"
+      },
+      {
+        "reviewId": "review_0049",
+        "rating": 3,
+        "text": "No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.",
+        "date": "2026-03-07"
+      },
+      {
+        "reviewId": "review_0196",
+        "rating": 4,
+        "text": "Liked how they handled the recent data issue. Transparency and quick communication was appreciated.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewId": "review_0279",
+        "rating": 4,
+        "text": "The mutual fund ratings and analysis reports are helpful for making informed decisions.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0140",
+        "rating": 1,
+        "text": "Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.",
+        "date": "2026-02-28"
+      },
+      {
+        "reviewId": "review_0081",
+        "rating": 5,
+        "text": "Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.",
+        "date": "2026-01-27"
+      },
+      {
+        "reviewId": "review_0164",
+        "rating": 4,
+        "text": "Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.",
+        "date": "2026-01-27"
+      },
+      {
+        "reviewId": "review_0024",
+        "rating": 3,
+        "text": "Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",
+        "date": "2026-01-20"
+      },
+      {
+        "reviewId": "review_0245",
+        "rating": 3,
+        "text": "App does not support hardware security keys. For an investment app the security should be top tier.",
+        "date": "2026-03-02"
+      },
+      {
+        "reviewId": "review_0135",
+        "rating": 1,
+        "text": "My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewId": "review_0145",
+        "rating": 3,
+        "text": "App does not support hardware security keys. For an investment app the security should be top tier.",
+        "date": "2026-02-25"
+      },
+      {
+        "reviewId": "review_0033",
+        "rating": 1,
+        "text": "KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.",
+        "date": "2026-01-30"
+      },
+      {
+        "reviewId": "review_0071",
+        "rating": 4,
+        "text": "The fund comparison feature is excellent. Helps me pick the right fund for my goals.",
+        "date": "2026-01-31"
+      },
+      {
+        "reviewId": "review_0187",
+        "rating": 1,
+        "text": "They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewId": "review_0166",
+        "rating": 5,
+        "text": "Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.",
+        "date": "2026-01-28"
+      },
+      {
+        "reviewId": "review_0293",
+        "rating": 5,
+        "text": "Biometric login is smooth and fast. Much better than entering the full PIN every time.",
+        "date": "2026-03-05"
+      },
+      {
+        "reviewId": "review_0169",
+        "rating": 3,
+        "text": "Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.",
+        "date": "2026-01-06"
+      }
+    ],
+    "security_trust": [
+      {
+        "reviewId": "review_0295",
+        "rating": 3,
+        "text": "App does not support hardware security keys. For an investment app the security should be top tier.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewId": "review_0280",
+        "rating": 2,
+        "text": "Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.",
+        "date": "2026-02-14"
+      },
+      {
+        "reviewId": "review_0133",
+        "rating": 1,
+        "text": "KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.",
+        "date": "2026-03-12"
+      },
+      {
+        "reviewId": "review_0269",
+        "rating": 3,
+        "text": "Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0221",
+        "rating": 4,
+        "text": "The fund comparison feature is excellent. Helps me pick the right fund for my goals.",
+        "date": "2026-03-08"
+      },
+      {
+        "reviewId": "review_0105",
+        "rating": 2,
+        "text": "Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.",
+        "date": "2026-01-13"
+      },
+      {
+        "reviewId": "review_0029",
+        "rating": 4,
+        "text": "The mutual fund ratings and analysis reports are helpful for making informed decisions.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewId": "review_0290",
+        "rating": 1,
+        "text": "Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.",
+        "date": "2026-01-26"
+      },
+      {
+        "reviewId": "review_0175",
+        "rating": 5,
+        "text": "Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewId": "review_0061",
+        "rating": 4,
+        "text": "Love the overall design but the font size in the portfolio section is too small for my eyes.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0152",
+        "rating": 2,
+        "text": "Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.",
+        "date": "2026-03-08"
+      },
+      {
+        "reviewId": "review_0007",
+        "rating": 3,
+        "text": "Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewId": "review_0019",
+        "rating": 3,
+        "text": "Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.",
+        "date": "2026-03-07"
+      },
+      {
+        "reviewId": "review_0066",
+        "rating": 5,
+        "text": "Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewId": "review_0109",
+        "rating": 1,
+        "text": "Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",
+        "date": "2026-02-27"
+      },
+      {
+        "reviewId": "review_0045",
+        "rating": 3,
+        "text": "App does not support hardware security keys. For an investment app the security should be top tier.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewId": "review_0087",
+        "rating": 1,
+        "text": "They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.",
+        "date": "2026-02-08"
+      },
+      {
+        "reviewId": "review_0065",
+        "rating": 3,
+        "text": "Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0075",
+        "rating": 5,
+        "text": "Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewId": "review_0211",
+        "rating": 4,
+        "text": "Love the overall design but the font size in the portfolio section is too small for my eyes.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewId": "review_0082",
+        "rating": 1,
+        "text": "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewId": "review_0037",
+        "rating": 1,
+        "text": "They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewId": "review_0273",
+        "rating": 4,
+        "text": "Gold investment feature is seamless. The smallest denomination option is great for new investors.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewId": "review_0131",
+        "rating": 5,
+        "text": "Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewId": "review_0296",
+        "rating": 4,
+        "text": "Liked how they handled the recent data issue. Transparency and quick communication was appreciated.",
+        "date": "2026-03-14"
+      },
+      {
+        "reviewId": "review_0009",
+        "rating": 1,
+        "text": "Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewId": "review_0139",
+        "rating": 4,
+        "text": "Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewId": "review_0227",
+        "rating": 3,
+        "text": "No option to set a target price alert without placing an order. This basic feature is missing.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewId": "review_0282",
+        "rating": 1,
+        "text": "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewId": "review_0198",
+        "rating": 5,
+        "text": "Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.",
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

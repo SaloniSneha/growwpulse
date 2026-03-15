@@ -1,0 +1,83 @@
+From: noreply@growwpulse.app
+To: your.email@gmail.com
+Subject: Groww Weekly Review Pulse -- Week of 2026-03-15
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_001"
+X-Mailer: Groww Pulse Engine
+
+--boundary_001
+Content-Type: text/plain; charset=utf-8
+
+Hi,
+
+Groww Weekly Review Pulse — Week of 2026-03-15
+
+🔥 Top 3 Themes
+
+App Performance & Crashes (84 mentions) — Users consistently report the app freezing, crashing on the portfolio tab, and slow dashboard load times (15–20s) especially after the latest update.
+
+Customer Support (72 mentions) — Delayed ticket resolution (5–10+ business days), unhelpful chatbot responses, and difficulty reaching human agents dominate negative reviews this week.
+
+Investment Features (66 mentions) — Strong positive sentiment around SIP setup speed and US stocks access, but users want price alerts, tax-harvesting tools, and international ETF options restored.
+
+---
+
+💬 Real User Quotes
+
+  "App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience." — ★★☆☆☆
+
+  "Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support." — ★☆☆☆☆
+
+  "Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended." — ★★★★★
+
+---
+
+💡 Action Ideas
+
+1. Hotfix the portfolio tab crash — Instrument the crash with Firebase Crashlytics and ship a patch build; the portfolio crash is the single highest-volume complaint this week with 84 mentions across 1-star and 2-star reviews.
+
+2. Add ticket SLA visibility — Display an estimated resolution time (e.g. "Expected response within 48 hours") when a support ticket is raised; even a simple time-bound promise reduces frustration from silence and will directly address the 1 support complaint.
+
+3. Launch in-app price alert feature — Allow users to set a target price/NAV for any stock or fund and receive a push notification; this request appears in 31 investment feature reviews and is table-stakes for competing with Zerodha Kite and INDMoney.
+
+---
+*Generated automatically from 300 Play Store reviews · Groww Pulse Engine*
+
+
+--boundary_001
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family:Arial,sans-serif;background:#f4f6f9;padding:24px;">
+  <div style="max-width:600px;margin:0 auto;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,0.08);">
+    <div style="background:linear-gradient(135deg,#00d09c,#00b386);padding:24px 32px;">
+      <h1 style="margin:0;color:#fff;font-size:20px;">📊 Groww Weekly Review Pulse</h1>
+      <p style="margin:4px 0 0;color:rgba(255,255,255,0.85);font-size:13px;">Week of 2026-03-15</p>
+    </div>
+    <div style="padding:28px 32px;color:#1a1a2e;line-height:1.7;">
+      <p>Hi,</p>
+      <h3 style="color:#00b386;">🔥 Top 3 Themes</h3>
+      <p><strong>App Performance & Crashes</strong> (84 mentions) — Users consistently report the app freezing, crashing on the portfolio tab, and slow dashboard load times especially after the latest update.</p>
+      <p><strong>Customer Support</strong> (72 mentions) — Delayed ticket resolution (5–10+ business days), unhelpful chatbot responses, and difficulty reaching human agents dominate negative reviews this week.</p>
+      <p><strong>Investment Features</strong> (66 mentions) — Strong positive sentiment around SIP setup speed and US stocks, but users want price alerts, tax-harvesting tools, and international ETFs restored.</p>
+      <h3 style="color:#00b386;">💬 Real User Quotes</h3>
+      <blockquote style="border-left:4px solid #00d09c;padding:10px 16px;background:#f0fdf9;margin:12px 0;font-style:italic;">"App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience." — ★★☆☆☆</blockquote>
+      <blockquote style="border-left:4px solid #00d09c;padding:10px 16px;background:#f0fdf9;margin:12px 0;font-style:italic;">"Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support." — ★☆☆☆☆</blockquote>
+      <blockquote style="border-left:4px solid #00d09c;padding:10px 16px;background:#f0fdf9;margin:12px 0;font-style:italic;">"Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended." — ★★★★★</blockquote>
+      <h3 style="color:#00b386;">💡 Action Ideas</h3>
+      <ol>
+        <li><strong>Hotfix the portfolio tab crash</strong> — Instrument with Firebase Crashlytics and ship a patch; the portfolio crash is the highest-volume complaint this week.</li>
+        <li><strong>Add ticket SLA visibility</strong> — Display estimated resolution time when a ticket is raised to directly address the #1 support complaint.</li>
+        <li><strong>Launch in-app price alert feature</strong> — Allow users to set price/NAV targets and receive push notifications; appears in 31 investment feature reviews.</li>
+      </ol>
+    </div>
+    <div style="background:#f8fafc;padding:16px 32px;border-top:1px solid #e8ecf0;text-align:center;">
+      <p style="margin:0;font-size:11px;color:#9aa5b4;">Auto-generated from 300 Play Store reviews · No PII included</p>
+    </div>
+  </div>
+</body>
+</html>
+
+--boundary_001--

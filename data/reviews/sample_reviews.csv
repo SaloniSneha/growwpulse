@@ -1,0 +1,301 @@
+reviewId,rating,text,date
+review_0000,2,App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.,2026-01-29
+review_0001,1,The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.,2026-01-07
+review_0002,2,Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.,2026-02-16
+review_0003,3,App was great earlier but after the last update it has become slow. Hope they fix this soon.,2026-01-07
+review_0004,1,Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.,2026-02-03
+review_0005,2,Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.,2026-02-21
+review_0006,1,App crashes when I try to place a limit order. Lost a good entry point because of this bug.,2026-01-26
+review_0007,3,"Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",2026-03-13
+review_0008,2,Push notifications for SIP execution do not arrive on time. I only know after checking manually.,2026-02-02
+review_0009,1,"Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",2026-03-01
+review_0010,3,The new UI is confusing. I cannot find where to check my investment returns like before.,2026-01-30
+review_0011,4,Love the overall design but the font size in the portfolio section is too small for my eyes.,2026-02-12
+review_0012,2,It is hard to find the SIP details page. Too many taps to reach basic information I need daily.,2026-01-25
+review_0013,3,The dark mode looks good but some text is barely readable against the dark background.,2026-03-14
+review_0014,4,Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.,2026-03-07
+review_0015,3,Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.,2026-02-17
+review_0016,5,Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.,2026-01-21
+review_0017,2,The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.,2026-02-13
+review_0018,4,Transaction history is well laid out. Easy to download statements. Good for tax filing.,2026-03-06
+review_0019,3,Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.,2026-03-07
+review_0020,5,Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.,2026-01-25
+review_0021,4,The fund comparison feature is excellent. Helps me pick the right fund for my goals.,2026-01-28
+review_0022,5,Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.,2026-01-30
+review_0023,4,Gold investment feature is seamless. The smallest denomination option is great for new investors.,2026-02-08
+review_0024,3,"Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",2026-01-20
+review_0025,5,Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.,2026-03-01
+review_0026,4,"The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",2026-02-13
+review_0027,3,No option to set a target price alert without placing an order. This basic feature is missing.,2026-01-06
+review_0028,5,SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.,2026-01-05
+review_0029,4,The mutual fund ratings and analysis reports are helpful for making informed decisions.,2026-02-23
+review_0030,2,Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.,2026-02-28
+review_0031,5,Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.,2026-02-23
+review_0032,1,Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.,2026-01-24
+review_0033,1,KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.,2026-01-30
+review_0034,2,Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.,2026-01-06
+review_0035,1,"My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",2026-02-22
+review_0036,3,Response time from support has improved but resolution quality is still lacking. Need better agents.,2026-01-13
+review_0037,1,They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.,2026-02-05
+review_0038,2,Help section FAQs are outdated. Does not match the current app interface at all.,2026-02-08
+review_0039,4,Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.,2026-01-19
+review_0040,1,Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.,2026-03-06
+review_0041,2,Verification process for bank account change took 5 business days. Too slow for a fintech company.,2026-01-11
+review_0042,4,Two factor authentication works well. Feel safe about my investments and personal data.,2026-01-31
+review_0043,5,Biometric login is smooth and fast. Much better than entering the full PIN every time.,2026-01-15
+review_0044,2,Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.,2026-01-25
+review_0045,3,App does not support hardware security keys. For an investment app the security should be top tier.,2026-01-08
+review_0046,4,Liked how they handled the recent data issue. Transparency and quick communication was appreciated.,2026-01-25
+review_0047,1,Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.,2026-01-15
+review_0048,5,Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.,2026-03-11
+review_0049,3,No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.,2026-03-07
+review_0050,2,App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.,2026-01-13
+review_0051,1,The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.,2026-02-24
+review_0052,2,Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.,2026-01-28
+review_0053,3,App was great earlier but after the last update it has become slow. Hope they fix this soon.,2026-01-08
+review_0054,1,Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.,2026-01-06
+review_0055,2,Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.,2026-02-09
+review_0056,1,App crashes when I try to place a limit order. Lost a good entry point because of this bug.,2026-01-15
+review_0057,3,"Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",2026-01-07
+review_0058,2,Push notifications for SIP execution do not arrive on time. I only know after checking manually.,2026-01-17
+review_0059,1,"Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",2026-01-15
+review_0060,3,The new UI is confusing. I cannot find where to check my investment returns like before.,2026-03-10
+review_0061,4,Love the overall design but the font size in the portfolio section is too small for my eyes.,2026-02-08
+review_0062,2,It is hard to find the SIP details page. Too many taps to reach basic information I need daily.,2026-02-17
+review_0063,3,The dark mode looks good but some text is barely readable against the dark background.,2026-01-19
+review_0064,4,Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.,2026-01-28
+review_0065,3,Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.,2026-01-21
+review_0066,5,Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.,2026-02-05
+review_0067,2,The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.,2026-01-18
+review_0068,4,Transaction history is well laid out. Easy to download statements. Good for tax filing.,2026-01-27
+review_0069,3,Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.,2026-02-21
+review_0070,5,Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.,2026-02-23
+review_0071,4,The fund comparison feature is excellent. Helps me pick the right fund for my goals.,2026-01-31
+review_0072,5,Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.,2026-02-05
+review_0073,4,Gold investment feature is seamless. The smallest denomination option is great for new investors.,2026-01-26
+review_0074,3,"Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",2026-02-14
+review_0075,5,Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.,2026-01-18
+review_0076,4,"The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",2026-02-06
+review_0077,3,No option to set a target price alert without placing an order. This basic feature is missing.,2026-01-21
+review_0078,5,SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.,2026-01-07
+review_0079,4,The mutual fund ratings and analysis reports are helpful for making informed decisions.,2026-02-19
+review_0080,2,Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.,2026-02-24
+review_0081,5,Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.,2026-01-27
+review_0082,1,Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.,2026-02-06
+review_0083,1,KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.,2026-03-13
+review_0084,2,Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.,2026-02-20
+review_0085,1,"My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",2026-01-08
+review_0086,3,Response time from support has improved but resolution quality is still lacking. Need better agents.,2026-01-09
+review_0087,1,They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.,2026-02-08
+review_0088,2,Help section FAQs are outdated. Does not match the current app interface at all.,2026-03-07
+review_0089,4,Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.,2026-01-27
+review_0090,1,Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.,2026-01-08
+review_0091,2,Verification process for bank account change took 5 business days. Too slow for a fintech company.,2026-02-23
+review_0092,4,Two factor authentication works well. Feel safe about my investments and personal data.,2026-01-26
+review_0093,5,Biometric login is smooth and fast. Much better than entering the full PIN every time.,2026-02-01
+review_0094,2,Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.,2026-03-01
+review_0095,3,App does not support hardware security keys. For an investment app the security should be top tier.,2026-02-23
+review_0096,4,Liked how they handled the recent data issue. Transparency and quick communication was appreciated.,2026-01-08
+review_0097,1,Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.,2026-02-07
+review_0098,5,Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.,2026-02-06
+review_0099,3,No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.,2026-01-19
+review_0100,2,App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.,2026-03-05
+review_0101,1,The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.,2026-03-10
+review_0102,2,Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.,2026-02-01
+review_0103,3,App was great earlier but after the last update it has become slow. Hope they fix this soon.,2026-02-09
+review_0104,1,Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.,2026-01-17
+review_0105,2,Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.,2026-01-13
+review_0106,1,App crashes when I try to place a limit order. Lost a good entry point because of this bug.,2026-02-05
+review_0107,3,"Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",2026-02-17
+review_0108,2,Push notifications for SIP execution do not arrive on time. I only know after checking manually.,2026-02-12
+review_0109,1,"Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",2026-02-27
+review_0110,3,The new UI is confusing. I cannot find where to check my investment returns like before.,2026-01-06
+review_0111,4,Love the overall design but the font size in the portfolio section is too small for my eyes.,2026-01-12
+review_0112,2,It is hard to find the SIP details page. Too many taps to reach basic information I need daily.,2026-03-06
+review_0113,3,The dark mode looks good but some text is barely readable against the dark background.,2026-03-11
+review_0114,4,Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.,2026-03-11
+review_0115,3,Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.,2026-02-26
+review_0116,5,Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.,2026-03-01
+review_0117,2,The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.,2026-03-02
+review_0118,4,Transaction history is well laid out. Easy to download statements. Good for tax filing.,2026-03-09
+review_0119,3,Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.,2026-02-17
+review_0120,5,Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.,2026-01-04
+review_0121,4,The fund comparison feature is excellent. Helps me pick the right fund for my goals.,2026-01-10
+review_0122,5,Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.,2026-01-09
+review_0123,4,Gold investment feature is seamless. The smallest denomination option is great for new investors.,2026-01-06
+review_0124,3,"Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",2026-02-12
+review_0125,5,Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.,2026-01-16
+review_0126,4,"The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",2026-01-05
+review_0127,3,No option to set a target price alert without placing an order. This basic feature is missing.,2026-01-05
+review_0128,5,SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.,2026-01-17
+review_0129,4,The mutual fund ratings and analysis reports are helpful for making informed decisions.,2026-02-23
+review_0130,2,Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.,2026-02-15
+review_0131,5,Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.,2026-01-21
+review_0132,1,Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.,2026-01-22
+review_0133,1,KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.,2026-03-12
+review_0134,2,Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.,2026-01-18
+review_0135,1,"My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",2026-02-05
+review_0136,3,Response time from support has improved but resolution quality is still lacking. Need better agents.,2026-02-13
+review_0137,1,They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.,2026-01-15
+review_0138,2,Help section FAQs are outdated. Does not match the current app interface at all.,2026-02-24
+review_0139,4,Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.,2026-01-18
+review_0140,1,Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.,2026-02-28
+review_0141,2,Verification process for bank account change took 5 business days. Too slow for a fintech company.,2026-01-30
+review_0142,4,Two factor authentication works well. Feel safe about my investments and personal data.,2026-02-09
+review_0143,5,Biometric login is smooth and fast. Much better than entering the full PIN every time.,2026-01-06
+review_0144,2,Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.,2026-01-12
+review_0145,3,App does not support hardware security keys. For an investment app the security should be top tier.,2026-02-25
+review_0146,4,Liked how they handled the recent data issue. Transparency and quick communication was appreciated.,2026-03-07
+review_0147,1,Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.,2026-02-23
+review_0148,5,Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.,2026-03-09
+review_0149,3,No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.,2026-01-28
+review_0150,2,App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.,2026-02-02
+review_0151,1,The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.,2026-02-03
+review_0152,2,Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.,2026-03-08
+review_0153,3,App was great earlier but after the last update it has become slow. Hope they fix this soon.,2026-03-08
+review_0154,1,Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.,2026-02-11
+review_0155,2,Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.,2026-02-23
+review_0156,1,App crashes when I try to place a limit order. Lost a good entry point because of this bug.,2026-02-23
+review_0157,3,"Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",2026-02-06
+review_0158,2,Push notifications for SIP execution do not arrive on time. I only know after checking manually.,2026-01-07
+review_0159,1,"Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",2026-01-21
+review_0160,3,The new UI is confusing. I cannot find where to check my investment returns like before.,2026-03-09
+review_0161,4,Love the overall design but the font size in the portfolio section is too small for my eyes.,2026-01-15
+review_0162,2,It is hard to find the SIP details page. Too many taps to reach basic information I need daily.,2026-01-22
+review_0163,3,The dark mode looks good but some text is barely readable against the dark background.,2026-02-24
+review_0164,4,Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.,2026-01-27
+review_0165,3,Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.,2026-01-14
+review_0166,5,Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.,2026-01-28
+review_0167,2,The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.,2026-02-15
+review_0168,4,Transaction history is well laid out. Easy to download statements. Good for tax filing.,2026-01-05
+review_0169,3,Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.,2026-01-06
+review_0170,5,Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.,2026-03-08
+review_0171,4,The fund comparison feature is excellent. Helps me pick the right fund for my goals.,2026-03-14
+review_0172,5,Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.,2026-02-08
+review_0173,4,Gold investment feature is seamless. The smallest denomination option is great for new investors.,2026-01-16
+review_0174,3,"Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",2026-01-23
+review_0175,5,Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.,2026-02-20
+review_0176,4,"The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",2026-01-19
+review_0177,3,No option to set a target price alert without placing an order. This basic feature is missing.,2026-01-22
+review_0178,5,SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.,2026-03-06
+review_0179,4,The mutual fund ratings and analysis reports are helpful for making informed decisions.,2026-02-01
+review_0180,2,Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.,2026-02-09
+review_0181,5,Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.,2026-01-23
+review_0182,1,Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.,2026-01-21
+review_0183,1,KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.,2026-02-01
+review_0184,2,Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.,2026-02-20
+review_0185,1,"My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",2026-01-28
+review_0186,3,Response time from support has improved but resolution quality is still lacking. Need better agents.,2026-02-18
+review_0187,1,They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.,2026-02-05
+review_0188,2,Help section FAQs are outdated. Does not match the current app interface at all.,2026-02-06
+review_0189,4,Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.,2026-02-26
+review_0190,1,Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.,2026-01-20
+review_0191,2,Verification process for bank account change took 5 business days. Too slow for a fintech company.,2026-03-12
+review_0192,4,Two factor authentication works well. Feel safe about my investments and personal data.,2026-03-06
+review_0193,5,Biometric login is smooth and fast. Much better than entering the full PIN every time.,2026-03-12
+review_0194,2,Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.,2026-01-31
+review_0195,3,App does not support hardware security keys. For an investment app the security should be top tier.,2026-01-27
+review_0196,4,Liked how they handled the recent data issue. Transparency and quick communication was appreciated.,2026-02-15
+review_0197,1,Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.,2026-02-23
+review_0198,5,Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.,2026-02-27
+review_0199,3,No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.,2026-02-07
+review_0200,2,App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.,2026-02-18
+review_0201,1,The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.,2026-02-08
+review_0202,2,Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.,2026-02-06
+review_0203,3,App was great earlier but after the last update it has become slow. Hope they fix this soon.,2026-03-12
+review_0204,1,Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.,2026-01-21
+review_0205,2,Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.,2026-01-23
+review_0206,1,App crashes when I try to place a limit order. Lost a good entry point because of this bug.,2026-02-15
+review_0207,3,"Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",2026-01-12
+review_0208,2,Push notifications for SIP execution do not arrive on time. I only know after checking manually.,2026-01-25
+review_0209,1,"Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",2026-01-06
+review_0210,3,The new UI is confusing. I cannot find where to check my investment returns like before.,2026-03-08
+review_0211,4,Love the overall design but the font size in the portfolio section is too small for my eyes.,2026-01-17
+review_0212,2,It is hard to find the SIP details page. Too many taps to reach basic information I need daily.,2026-02-11
+review_0213,3,The dark mode looks good but some text is barely readable against the dark background.,2026-02-27
+review_0214,4,Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.,2026-03-10
+review_0215,3,Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.,2026-02-01
+review_0216,5,Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.,2026-02-15
+review_0217,2,The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.,2026-01-30
+review_0218,4,Transaction history is well laid out. Easy to download statements. Good for tax filing.,2026-01-15
+review_0219,3,Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.,2026-02-23
+review_0220,5,Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.,2026-03-01
+review_0221,4,The fund comparison feature is excellent. Helps me pick the right fund for my goals.,2026-03-08
+review_0222,5,Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.,2026-02-01
+review_0223,4,Gold investment feature is seamless. The smallest denomination option is great for new investors.,2026-02-02
+review_0224,3,"Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",2026-03-13
+review_0225,5,Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.,2026-02-13
+review_0226,4,"The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",2026-02-06
+review_0227,3,No option to set a target price alert without placing an order. This basic feature is missing.,2026-02-24
+review_0228,5,SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.,2026-01-16
+review_0229,4,The mutual fund ratings and analysis reports are helpful for making informed decisions.,2026-01-06
+review_0230,2,Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.,2026-02-04
+review_0231,5,Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.,2026-02-08
+review_0232,1,Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.,2026-01-11
+review_0233,1,KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.,2026-02-04
+review_0234,2,Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.,2026-01-14
+review_0235,1,"My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",2026-01-28
+review_0236,3,Response time from support has improved but resolution quality is still lacking. Need better agents.,2026-01-25
+review_0237,1,They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.,2026-02-07
+review_0238,2,Help section FAQs are outdated. Does not match the current app interface at all.,2026-02-17
+review_0239,4,Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.,2026-02-21
+review_0240,1,Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.,2026-02-09
+review_0241,2,Verification process for bank account change took 5 business days. Too slow for a fintech company.,2026-01-27
+review_0242,4,Two factor authentication works well. Feel safe about my investments and personal data.,2026-02-20
+review_0243,5,Biometric login is smooth and fast. Much better than entering the full PIN every time.,2026-02-23
+review_0244,2,Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.,2026-01-31
+review_0245,3,App does not support hardware security keys. For an investment app the security should be top tier.,2026-03-02
+review_0246,4,Liked how they handled the recent data issue. Transparency and quick communication was appreciated.,2026-03-07
+review_0247,1,Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.,2026-02-01
+review_0248,5,Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.,2026-02-02
+review_0249,3,No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.,2026-02-02
+review_0250,2,App crashes every time I try to check my portfolio. This has been happening for 3 days. Very frustrating experience.,2026-02-10
+review_0251,1,The app freezes when I switch between mutual fund and stocks tabs. Restarting fixes it but it keeps coming back.,2026-01-21
+review_0252,2,Loading times are terrible. The dashboard takes 15 to 20 seconds to load even on a 5G connection.,2026-02-04
+review_0253,3,App was great earlier but after the last update it has become slow. Hope they fix this soon.,2026-01-11
+review_0254,1,Keeps logging me out automatically. I have to login again and again. Very annoying during market hours.,2026-01-23
+review_0255,2,Charts do not load properly on my phone. The candlestick view just shows a blank screen half the time.,2026-01-08
+review_0256,1,App crashes when I try to place a limit order. Lost a good entry point because of this bug.,2026-01-30
+review_0257,3,"Performance is inconsistent. Sometimes blazing fast, sometimes painfully slow. Needs optimization.",2026-02-22
+review_0258,2,Push notifications for SIP execution do not arrive on time. I only know after checking manually.,2026-01-14
+review_0259,1,"Black screen after login. Cleared cache, reinstalled, nothing works. Please fix this urgently.",2026-02-23
+review_0260,3,The new UI is confusing. I cannot find where to check my investment returns like before.,2026-02-21
+review_0261,4,Love the overall design but the font size in the portfolio section is too small for my eyes.,2026-01-18
+review_0262,2,It is hard to find the SIP details page. Too many taps to reach basic information I need daily.,2026-02-11
+review_0263,3,The dark mode looks good but some text is barely readable against the dark background.,2026-01-09
+review_0264,4,Good app overall. The discover section helps me find new funds. Wish the search was a bit smarter.,2026-03-04
+review_0265,3,Navigation could be more intuitive. Why is watchlist buried so deep? Should be on the home screen.,2026-03-13
+review_0266,5,Clean and minimal interface. Easy to use for beginners. My mother who is 55 can use it without help.,2026-03-13
+review_0267,2,The portfolio graph is misleading. It does not clearly show returns vs invested amount side by side.,2026-03-12
+review_0268,4,Transaction history is well laid out. Easy to download statements. Good for tax filing.,2026-01-23
+review_0269,3,Onboarding was smooth but the KYC flow had too many steps. Took me 20 minutes to complete.,2026-01-21
+review_0270,5,Best app for SIP investments. Setting up a new SIP takes under 2 minutes. Highly recommended.,2026-02-18
+review_0271,4,The fund comparison feature is excellent. Helps me pick the right fund for my goals.,2026-02-19
+review_0272,5,Love the US stocks feature. Now I can invest in Apple and Google directly from the same app.,2026-02-01
+review_0273,4,Gold investment feature is seamless. The smallest denomination option is great for new investors.,2026-02-01
+review_0274,3,"Wish there was a better tax harvesting tool. Other apps offer this feature, Groww should too.",2026-02-01
+review_0275,5,Portfolio tracker is top notch. XIRR calculation is accurate and helps me understand my actual returns.,2026-02-16
+review_0276,4,"The screener for stocks is very powerful. I can filter by PE ratio, dividend yield, and sector easily.",2026-01-25
+review_0277,3,No option to set a target price alert without placing an order. This basic feature is missing.,2026-02-13
+review_0278,5,SIP pause feature saved me during a tough month. Love that flexibility. Great product thinking.,2026-01-04
+review_0279,4,The mutual fund ratings and analysis reports are helpful for making informed decisions.,2026-01-30
+review_0280,2,Cannot invest in international ETFs like Nasdaq 100 anymore. Please bring that option back.,2026-02-14
+review_0281,5,Instant redemption on liquid funds is a lifesaver. Money in my account within minutes.,2026-02-15
+review_0282,1,Raised a ticket 10 days ago about wrong NAV applied to my SIP. No resolution yet. Very poor support.,2026-01-09
+review_0283,1,KYC was rejected without any proper reason. Customer care takes days to respond. Unacceptable.,2026-02-24
+review_0284,2,Support chat is useless. The bot keeps giving generic answers. Cannot reach a real human agent.,2026-03-06
+review_0285,1,"My redemption request has been stuck for 7 business days. No update, no call back. Pathetic service.",2026-03-13
+review_0286,3,Response time from support has improved but resolution quality is still lacking. Need better agents.,2026-02-03
+review_0287,1,They debited my account twice for a single SIP payment. It has been 2 weeks and refund is not credited.,2026-01-24
+review_0288,2,Help section FAQs are outdated. Does not match the current app interface at all.,2026-01-17
+review_0289,4,Had an issue with nominee addition. Support resolved it in 2 days with clear communication. Thank you.,2026-02-21
+review_0290,1,Account blocked for no reason during market hours. Could not exit a losing position. Unacceptable.,2026-01-26
+review_0291,2,Verification process for bank account change took 5 business days. Too slow for a fintech company.,2026-01-04
+review_0292,4,Two factor authentication works well. Feel safe about my investments and personal data.,2026-02-26
+review_0293,5,Biometric login is smooth and fast. Much better than entering the full PIN every time.,2026-03-05
+review_0294,2,Got a suspicious login attempt notification. Glad the alert came but wish there was a force logout option.,2026-01-17
+review_0295,3,App does not support hardware security keys. For an investment app the security should be top tier.,2026-02-02
+review_0296,4,Liked how they handled the recent data issue. Transparency and quick communication was appreciated.,2026-03-14
+review_0297,1,Received a phishing call claiming to be Groww support asking for OTP. Company should warn users more proactively.,2026-03-15
+review_0298,5,Money always arrives on time. Transactions are secure and reliable. Using it for 3 years without any issue.,2026-01-15
+review_0299,3,No session timeout setting available. I want the app to auto lock after 5 minutes of inactivity.,2026-02-03

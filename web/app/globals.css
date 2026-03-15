@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --groww-green: #00d09c;
+  --groww-dark: #00b386;
+  --bg-primary: #0b0f1a;
+  --bg-card: #111827;
+  --bg-card-hover: #1a2234;
+  --border: rgba(255,255,255,0.07);
+  --text-muted: #6b7280;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg-primary);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(0, 208, 156, 0.12) 0%, transparent 70%),
+    radial-gradient(ellipse 40% 30% at 80% 80%, rgba(0, 160, 120, 0.06) 0%, transparent 60%);
+  background-attachment: fixed;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: rgba(0,208,156,0.3); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,208,156,0.5); }
+
+/* Shimmer skeleton */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(255,255,255,0.04) 25%,
+    rgba(255,255,255,0.09) 50%,
+    rgba(255,255,255,0.04) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+/* Markdown prose styles */
+.prose-pulse h2 { @apply text-lg font-display font-semibold text-white mb-3 mt-6 first:mt-0; }
+.prose-pulse h3 {
+  @apply text-base font-semibold mb-2 mt-5 first:mt-0;
+  color: var(--groww-green);
+}
+.prose-pulse p { @apply text-gray-300 leading-relaxed mb-3 text-sm; }
+.prose-pulse strong { @apply text-white font-semibold; }
+.prose-pulse blockquote {
+  @apply border-l-2 pl-4 py-1 my-3 italic text-gray-300 text-sm rounded-r-lg;
+  border-color: var(--groww-green);
+  background: rgba(0, 208, 156, 0.06);
+}
+.prose-pulse ol { @apply list-decimal list-inside space-y-2 mb-4; }
+.prose-pulse ul { @apply list-disc list-inside space-y-2 mb-4; }
+.prose-pulse li { @apply text-gray-300 text-sm leading-relaxed; }
+.prose-pulse hr { @apply border-white/10 my-5; }
+.prose-pulse em { @apply text-gray-400 text-xs not-italic; }
+
+/* Card glass effect */
+.glass-card {
+  background: rgba(17, 24, 39, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.07);
+}
+
+/* Glow button */
+.btn-glow {
+  position: relative;
+  overflow: hidden;
+}
+.btn-glow::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 0%, rgba(255,255,255,0.15), transparent 70%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.btn-glow:hover::before { opacity: 1; }
+
+/* Phase step animation delays */
+.step-0 { animation-delay: 0ms; }
+.step-1 { animation-delay: 80ms; }
+.step-2 { animation-delay: 160ms; }
+.step-3 { animation-delay: 240ms; }
+.step-4 { animation-delay: 320ms; }
